@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   role_name: web_server
-  author: sua_conta_github
+  author: 4linuxlab
   description: Instalação e Configuração do servidor Apache
   company: 4Linux
   license: GPLv3
